@@ -1,0 +1,54 @@
+td{
+    border: 1px solid black;
+    text-align: center;
+    min-width: 5%;
+    max-width: 5%;
+    font-size: 14px;
+} 
+.large{
+    font-size: 11px;
+}
+table{
+        border-spacing: 1px;
+}
+.empty{
+    display: hide;
+    border: none;
+}
+
+tr.empty{
+    height: 30px;
+}
+
+.metalloids{
+    background-color: palegreen;
+}
+
+.othernonmetals{
+    background-color: limegreen;
+}
+
+.halogens{
+    background-color:cyan;
+}
+.nobelgases{
+    background-color: lightblue;
+}
+.alkali{
+    background-color: orange;
+}
+.metal{
+    background-color: lightcoral;
+}
+.lanthanoids{
+    background-color: mediumpurple;
+}
+.actinoids{
+    background-color: yellow
+    }
+.tramsitionmetals{
+    background-color: red;
+}
+.posttransition{
+    background-color: hotpink;
+}
